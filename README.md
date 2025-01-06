@@ -5,10 +5,10 @@
 - Cybersecurity enthusiast and ethical hacker.
 - Passionate about exploring bug bounty hunting to challenge myself and grow in the field.
 
-## 🛠️ Skills & Interests
+<!-- ## 🛠️ Skills & Interests
 - **Programming Languages:** Python, JavaScript
 - **Cybersecurity Focus:** Ethical Hacking, Bug Bounty Hunting, Vulnerability Research
-- **Other Interests:** Web Development, Problem Solving, Colboration & Communication
+- **Other Interests:** Web Development, Problem Solving, Colboration & Communication -->
 
 ## 🚀 What I'm Up To
 - Becoming a fullstack web developer to be able to find bugs during bug bounty
