@@ -24,8 +24,8 @@
 - **Twitter:** [@DarkVeil](https://x.com/drk_veil)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drkveil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drkveil&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imahnn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imahnn&layout=compact&theme=radical)
 
 ---
 
